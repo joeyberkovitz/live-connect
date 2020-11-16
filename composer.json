@@ -13,10 +13,9 @@
         }
     ],
     "require": {
-        "php": ">=5.4.0",
-        "guzzlehttp/guzzle": "~4.0",
-        "guzzlehttp/log-subscriber": "1.*",
-        "monolog/monolog": "1.7.*"
+        "php": ">=7.2.5",
+        "guzzlehttp/guzzle": "~7.0",
+        "monolog/monolog": "^2.1.1"
     },
      "autoload": {
         "psr-4": {
